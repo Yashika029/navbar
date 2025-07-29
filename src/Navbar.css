@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:rgb(181, 210, 233);
+}
+
+.link-header {
+    display: flex;
+    align-items: center;
+}
+
+.list-header {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+.link {
+    margin: 4px;
+    padding: 4px;
+    font-size: 18px;
+}
